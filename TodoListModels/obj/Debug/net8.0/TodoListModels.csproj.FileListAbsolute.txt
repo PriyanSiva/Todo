@@ -1,0 +1,12 @@
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\bin\Debug\net8.0\TodoListModels.deps.json
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\bin\Debug\net8.0\TodoListModels.dll
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\bin\Debug\net8.0\TodoListModels.pdb
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\obj\Debug\net8.0\TodoListModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\obj\Debug\net8.0\TodoListModels.AssemblyInfoInputs.cache
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\obj\Debug\net8.0\TodoListModels.AssemblyInfo.cs
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\obj\Debug\net8.0\TodoListModels.csproj.CoreCompileInputs.cache
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\obj\Debug\net8.0\TodoListModels.dll
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\obj\Debug\net8.0\refint\TodoListModels.dll
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\obj\Debug\net8.0\TodoListModels.pdb
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\obj\Debug\net8.0\ref\TodoListModels.dll
+C:\Users\sprve\Desktop\FF\backend\Todo\TodoListModels\obj\Debug\net8.0\TodoListModels.csproj.AssemblyReference.cache
